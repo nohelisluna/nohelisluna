@@ -25,6 +25,6 @@
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Gmail.svg" />
   </a>
   
-   <a href="https://www.facebook.com/juandiego.wsc/">
+   <a href="https://web.facebook.com/nohelisdaviana.lunaquiroz/">
     <img align="left" alt="Juan Diego | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/facebook.svg" />
   </a> &nbsp;&nbsp;
