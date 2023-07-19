@@ -17,7 +17,7 @@
 
 # Mis redes <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Handshake.gif" height="32px">
 
-  <a href="https://www.instagram.com/juandiego.ws/">
+  <a href="https://www.instagram.com/nohelis_06/">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
