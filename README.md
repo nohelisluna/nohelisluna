@@ -18,12 +18,12 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-# Mis redes <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Handshake.gif" height="32px">
+# Mis redes <img src="https://github.com/nohelisluna/nohelisluna/assets/139879857/41f1ba9e-7b19-4ed9-ba5a-d5b0c8186e85" height="32px">
 
   <a href="https://www.instagram.com/nohelis_06/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Instagram.svg" />
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/nohelisluna/nohelisluna/assets/139879857/d3fc2f9a-c7b2-4b8e-b9e7-0b5eb9add60b" />
   </a> &nbsp;&nbsp;
-  
+
   <a href="mailto:nohelisluna@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Gmail.svg" />
   </a>
